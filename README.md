@@ -3,6 +3,8 @@
 **📌 About the Project**
 
 CookBook is a mobile application developed in Kotlin using Jetpack Compose, designed for users to easily add, explore, and manage recipes. The app provides a smooth experience for cooking enthusiasts, offering personalized features such as user authentication, favorite recipes, and profile customization.
+**Download the App:**
+The latest APK is available in the Releases section.
 
 **🛠️ Technologies Used**
 
@@ -25,8 +27,7 @@ CookBook is a mobile application developed in Kotlin using Jetpack Compose, desi
 You can check out our design prototype on Figma: 
 https://www.figma.com/design/uuX5TJaHOLyN4HTo35Lj6A/Untitled?node-id=0-1&t=SBCqyaWNR6elsVmd-1
 
-**Download the App:**
-The latest APK is available in the Releases section.
+
 
 🤝 Team & Contributors
 - Ajla Beća
